@@ -1,0 +1,24 @@
+{
+  "name": "karma-tape-parser",
+  "version": "1.0.0",
+  "description": "Karma-plugin: Parses Tape Js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badman-rodriguez/karma-tape-parser.git"
+  },
+  "keywords": [],
+  "author": "Brian Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badman-rodriguez/karma-tape-parser/issues"
+  },
+  "homepage": "https://github.com/badman-rodriguez/karma-tape-parser#readme",
+  "devDependencies": {
+    "karma": "^1.7.0",
+    "path": "^0.12.7",
+    "tap": "^10.7.0",
+    "tap-parser": "^6.0.1",
+    "tape": "^4.7.0"
+  }
+}
